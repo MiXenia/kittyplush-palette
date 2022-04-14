@@ -1,0 +1,21 @@
+{
+    "name": "kittyplush-palette",
+    "displayName": "Kittyplush Palette",
+    "description": "A dark high contrast theme focusing on pinks with dashes of blue and purple!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kittyplush Palette",
+                "uiTheme": "hc-black",
+                "path": "./themes/Kittyplush Palette-color-theme.json"
+            }
+        ]
+    }
+}
