@@ -2,7 +2,7 @@
     "name": "kittyplush-palette",
     "displayName": "Kittyplush Palette",
     "description": "A dark high contrast theme focusing on pinks with dashes of blue and purple!",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "MiXenia",
     "engines": {
         "vscode": "^1.66.0"
